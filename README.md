@@ -10,11 +10,11 @@ I will provide a source for problems where possible and known.
 * [TODO](#TODO)
 
 ## Arrays
-[Find the common elements of 2 int arrays](https://github.com/munyari/gen-algo/blob/master/CommonElem.java) - [(Source)](http://redd.it/20ahfq)
-[Find the most frequent integer in an array](https://github.com/munyari/gen-algo/blob/master/FrequentInt.java) - [(Source)](http://redd.it/20ahfq)
+* [Find the common elements of 2 int arrays](https://github.com/munyari/gen-algo/blob/master/CommonElem.java) - [(Source)](http://redd.it/20ahfq)
+* [Find the most frequent integer in an array](https://github.com/munyari/gen-algo/blob/master/FrequentInt.java) - [(Source)](http://redd.it/20ahfq)
 
 ## Strings
-[Find the first non-repeated character in a String](https://github.com/munyari/gen-algo/blob/master/NonRepeat.java) - [(Source)](http://redd.it/20ahfq)
+* [Find the first non-repeated character in a String](https://github.com/munyari/gen-algo/blob/master/NonRepeat.java) - [(Source)](http://redd.it/20ahfq)
 
 ## TODO
 * [ ] Add JUnit testing to all sections
