@@ -16,5 +16,5 @@ I will provide a source for problems where possible and known.
 [Find the first non-repeated character in a String](https://github.com/munyari/gen-algo/blob/master/NonRepeat.java) - [(Source)](http://redd.it/20ahfq)
 
 ## TODO
-[ ] Add JUnit testing to all sections
-[ ] Add tests to most frequent integer
+* [ ] Add JUnit testing to all sections
+* [ ] Add tests to most frequent integer
