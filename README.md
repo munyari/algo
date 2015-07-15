@@ -11,7 +11,6 @@ I will provide a source for problems where possible and known.
 
 ## Arrays
 [Find the common elements of 2 int arrays](https://github.com/munyari/gen-algo/blob/master/CommonElem.java) - [(Source)](http://redd.it/20ahfq)
-
 [Find the most frequent integer in an array](https://github.com/munyari/gen-algo/blob/master/FrequentInt.java) - [(Source)](http://redd.it/20ahfq)
 
 ## Strings
