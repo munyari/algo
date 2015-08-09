@@ -11,7 +11,7 @@ I will provide a source for problems where possible and known.
 * [Linked Lists](#linked-lists)
 * [Math Based](#math-based)
 * [Strings](#strings)
-* [TODO](#TODO)
+* [TODO](#todo)
 
 ## Arrays
 * [Find the common elements of 2 int arrays](https://github.com/munyari/gen-algo/blob/master/CommonElem.java) - [(Source)](http://redd.it/20ahfq)
