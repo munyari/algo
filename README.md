@@ -25,7 +25,6 @@ I will provide a source for problems where possible and known.
 * [Implement an recursive inorder traversal](https://github.com/munyari/gen-algo/blob/master/Inorder.java) - [(Source)](https://firecode.io)
 * [Implement an iterative preorder traversal](https://github.com/munyari/gen-algo/blob/master/PreorderI.java) - [(Source)](https://firecode.io)
 * [Count the number of leaves on a binary tree](https://github.com/munyari/gen-algo/blob/master/CountLeaves.java) - [(Source)](https://firecode.io)
-
 * [Check whether two binary trees are identical](https://github.com/munyari/gen-algo/blob/master/IdenticalBinTree.java) - [(Source)](https://firecode.io)
 
 ## Linked Lists
@@ -36,11 +35,8 @@ I will provide a source for problems where possible and known.
 
 ## Strings
 * [Find the first non-repeated character in a String](https://github.com/munyari/gen-algo/blob/master/NonRepeat.java) - [(Source)](http://redd.it/20ahfq)
-
 * [Find the most frequent integer in an array](https://github.com/munyari/gen-algo/blob/master/FrequentInt.java) - [(Source)](http://redd.it/20ahfq)
 
-## Strings
-* [Find the first non-repeated character in a String](https://github.com/munyari/gen-algo/blob/master/NonRepeat.java) - [(Source)](http://redd.it/20ahfq)
 
 ## TODO
 * [ ] Add JUnit testing to all sections
