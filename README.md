@@ -48,3 +48,4 @@ I will provide a source for problems where possible and known.
 * [X] Graph section in README
 * [X] Binary search section in README (under graph)
 * [X] Math section in README
+* [ ] Put each section into its own folder
