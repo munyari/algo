@@ -26,6 +26,7 @@ I will provide a source for problems where possible and known.
 * [Implement an iterative preorder traversal](https://github.com/munyari/gen-algo/blob/master/PreorderI.java) - [(Source)](https://firecode.io)
 * [Count the number of leaves on a binary tree](https://github.com/munyari/gen-algo/blob/master/CountLeaves.java) - [(Source)](https://firecode.io)
 * [Check whether two binary trees are identical](https://github.com/munyari/gen-algo/blob/master/IdenticalBinTree.java) - [(Source)](https://firecode.io)
+* [Construct a postorder traversal iteratively](https://github.com/munyari/gen-algo/blob/master/PostOrderIterative.java) - [(Source)](https://firecode.io)
 
 ## Linked Lists
 * [Delete the node at a particular position in a linked list.](https://github.com/munyari/gen-algo/blob/master/DeleteAtMiddle.java) - [(Source)](https://firecode.io)
