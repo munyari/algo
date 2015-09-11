@@ -30,6 +30,7 @@ I will provide a source for problems where possible and known.
 
 ## Linked Lists
 * [Delete the node at a particular position in a linked list.](https://github.com/munyari/gen-algo/blob/master/DeleteAtMiddle.java) - [(Source)](https://firecode.io)
+* [Reverse a singly linked list.](https://github.com/munyari/gen-algo/blob/master/ReverseLinked.java) - The Algorithm Design Manual
 
 ## Math Based
 * [Write a method `pow(x, n)` that returns the value of x raised to the power of n](https://github.com/munyari/gen-algo/blob/master/Pow.java) - [(Source)](https://firecode.io)
