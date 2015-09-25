@@ -11,34 +11,59 @@ I will provide a source for problems where possible and known.
 * [Linked Lists](#linked-lists)
 * [Math Based](#math-based)
 * [Strings](#strings)
+* [How to run tests](#how-to-run-tests)
 * [TODO](#todo)
 
 ## Arrays
-* [Find the most frequent integer in an array](https://github.com/munyari/gen-algo/blob/master/MostFrequent.java) - [Source](http://redd.it/20ahfq)
-* [Find the common elements of 2 int arrays](https://github.com/munyari/gen-algo/blob/master/CommonElem.java) - [(Source)](http://redd.it/20ahfq)
-* [Merge two sorted arrays](https://github.com/munyari/gen-algo/blob/master/Merge.java) - [(Source)](https://firecode.io)
+* [Find the most frequent integer in an array](https://github.com/munyari/algo/blob/master/src/MostFrequent.java) - [Source](http://redd.it/20ahfq)
+* [Find the common elements of 2 int arrays](https://github.com/munyari/algo/blob/master/src/CommonElem.java) - [(Source)](http://redd.it/20ahfq)
+* [Merge two sorted arrays](https://github.com/munyari/algo/blob/master/src/Merge.java) - [(Source)](https://firecode.io)
 
 ## Graphs
 ### Binary Trees
-* [Find the sum of all elements in a binary tree](https://github.com/munyari/gen-algo/blob/master/BinSum.java) - [(Source)](https://firecode.io)
-* [Find the height of a binary tree](https://github.com/munyari/gen-algo/blob/master/BinHeight.java) - [(Source)](https://firecode.io)
-* [Implement a recursive postorder traversal](https://github.com/munyari/gen-algo/blob/master/PostOrder.java) - [(Source)](https://firecode.io)
-* [Implement an recursive inorder traversal](https://github.com/munyari/gen-algo/blob/master/Inorder.java) - [(Source)](https://firecode.io)
-* [Implement an iterative preorder traversal](https://github.com/munyari/gen-algo/blob/master/PreorderI.java) - [(Source)](https://firecode.io)
-* [Count the number of leaves on a binary tree](https://github.com/munyari/gen-algo/blob/master/CountLeaves.java) - [(Source)](https://firecode.io)
-* [Check whether two binary trees are identical](https://github.com/munyari/gen-algo/blob/master/IdenticalBinTree.java) - [(Source)](https://firecode.io)
-* [Construct a postorder traversal iteratively](https://github.com/munyari/gen-algo/blob/master/PostOrderIterative.java) - [(Source)](https://firecode.io)
+* [Find the sum of all elements in a binary tree](https://github.com/munyari/algo/blob/master/src/BinSum.java) - [(Source)](https://firecode.io)
+* [Find the height of a binary tree](https://github.com/munyari/algo/blob/master/src/BinHeight.java) - [(Source)](https://firecode.io)
+* [Implement a recursive postorder traversal](https://github.com/munyari/algo/blob/master/src/PostOrder.java) - [(Source)](https://firecode.io)
+* [Implement an recursive inorder traversal](https://github.com/munyari/algo/blob/master/src/Inorder.java) - [(Source)](https://firecode.io)
+* [Implement an iterative preorder traversal](https://github.com/munyari/algo/blob/master/src/PreorderI.java) - [(Source)](https://firecode.io)
+* [Count the number of leaves on a binary tree](https://github.com/munyari/algo/blob/master/src/CountLeaves.java) - [(Source)](https://firecode.io)
+* [Check whether two binary trees are identical](https://github.com/munyari/algo/blob/master/src/IdenticalBinTree.java) - [(Source)](https://firecode.io)
+* [Construct a postorder traversal iteratively](https://github.com/munyari/algo/blob/master/src/PostOrderIterative.java) - [(Source)](https://firecode.io)
 
 ## Linked Lists
-* [Delete the node at a particular position in a linked list.](https://github.com/munyari/gen-algo/blob/master/DeleteAtMiddle.java) - [(Source)](https://firecode.io)
-* [Reverse a singly linked list.](https://github.com/munyari/gen-algo/blob/master/ReverseLinked.java) - The Algorithm Design Manual
+* [Delete the node at a particular position in a linked list.](https://github.com/munyari/algo/blob/master/src/DeleteAtMiddle.java) - [(Source)](https://firecode.io)
+* [Reverse a singly linked list.](https://github.com/munyari/algo/blob/master/src/ReverseLinked.java) - The Algorithm Design Manual
 
 ## Math Based
-* [Write a method `pow(x, n)` that returns the value of x raised to the power of n](https://github.com/munyari/gen-algo/blob/master/Pow.java) - [(Source)](https://firecode.io)
+* [Write a method `pow(x, n)` that returns the value of x raised to the power of n](https://github.com/munyari/algo/blob/master/src/Pow.java) - [(Source)](https://firecode.io)
 
 ## Strings
-* [Find the first non-repeated character in a String](https://github.com/munyari/gen-algo/blob/master/NonRepeat.java) - [(Source)](http://redd.it/20ahfq)
-* [Find the most frequent integer in an array](https://github.com/munyari/gen-algo/blob/master/FrequentInt.java) - [(Source)](http://redd.it/20ahfq)
+* [Find the first non-repeated character in a String](https://github.com/munyari/algo/blob/master/src/NonRepeat.java) - [(Source)](http://redd.it/20ahfq)
+* [Find the most frequent integer in an array](https://github.com/munyari/algo/blob/master/src/FrequentInt.java) - [(Source)](http://redd.it/20ahfq)
+
+## How to run tests
+
+Ensure that you have [JUnit](http://junit.org/) installed and in working order.
+
+`cd` to the parent directory of algo.
+
+Compile the class to be tested:
+
+````
+    $ javac algo/src/Merge.java
+````
+	
+Compile test with junit jar file:
+
+````
+    $ javac -cp .:/opt/junit-4.12/junit-4.12.jar algo/test/MergeTest.java
+````
+
+Run the test:
+
+````
+    $ java -cp .:/opt/junit-4.12/junit-4.12.jar:/opt/junit-4.12/hamcrest-core-1.3.jar org.junit.runner.JUnitCore algo.test.MergeTest
+````	
 
 
 ## TODO
