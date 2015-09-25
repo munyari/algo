@@ -1,8 +1,5 @@
-// java.util.* has been imported for this problem.
-// You don't need any other imports.
 
 public static double pow(double x, int n) {
-    // Add your code below this line. Do not modify any other code.            
     if (n == 0) {
         return 1;
     }
@@ -16,5 +13,4 @@ public static double pow(double x, int n) {
         return x * pow(x * x, n / 2);
     }
     return pow(x * x, n / 2);
-    // Add your code above this line. Do not modify any other code.
 }

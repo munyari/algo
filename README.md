@@ -1,4 +1,4 @@
-# gen-algo
+# algo
 General algorithm problems from the internet/books that don't fit anywhere else nicely.
 
 Basically, non-OJ algorithm problems, since I already have online judge repositories both here and on bitbucket (private).
@@ -42,7 +42,7 @@ I will provide a source for problems where possible and known.
 
 
 ## TODO
-* [ ] Add JUnit testing to all sections
+* [X] Add JUnit testing to all sections
 * [ ] Add tests to most frequent integer
 * [X] Graph section in README
 * [X] Binary search section in README (under graph)

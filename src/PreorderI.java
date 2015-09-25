@@ -1,8 +1,5 @@
-// java.util.* has been imported for this problem.
-// You don't need any other imports.
 
 public ArrayList preorderItr(TreeNode root) {
-    // Add your code below this line. Do not modify any other code.                   
     ArrayList preorder = new ArrayList();
     Stack stack = new Stack();
     while (true) {
@@ -19,5 +16,4 @@ public ArrayList preorderItr(TreeNode root) {
         }
     }
     return preorder;
-    // Add your code above this line. Do not modify any other code.
 }
