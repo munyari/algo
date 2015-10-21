@@ -33,6 +33,7 @@ I will provide a source for problems where possible and known.
 ## Linked Lists
 * [Delete the node at a particular position in a linked list.](https://github.com/munyari/algo/blob/master/src/DeleteAtMiddle.java) - [(Source)](https://firecode.io)
 * [Reverse a singly linked list.](https://github.com/munyari/algo/blob/master/src/ReverseLinked.java) - The Algorithm Design Manual
+* [Detect a cycle in a linked list (Hint: Floyd's cycle finding algorithm)](https://github.com/munyari/algo/blob/master/src/TortoiseHare.java) - [(Source)](https://firecode.io)
 
 ## Math Based
 * [Write a method `pow(x, n)` that returns the value of x raised to the power of n](https://github.com/munyari/algo/blob/master/src/Pow.java) - [(Source)](https://firecode.io)
@@ -40,6 +41,7 @@ I will provide a source for problems where possible and known.
 ## Strings
 * [Find the first non-repeated character in a String](https://github.com/munyari/algo/blob/master/src/NonRepeat.java) - [(Source)](http://redd.it/20ahfq)
 * [Find the most frequent integer in an array](https://github.com/munyari/algo/blob/master/src/FrequentInt.java) - [(Source)](http://redd.it/20ahfq)
+* [Return all permutations of a given string](https://github.com/munyari/algo/blob/master/src/StringPermutations.java) - [(Source)](https://firecode.io)
 
 ## How to run tests
 
