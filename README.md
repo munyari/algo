@@ -37,6 +37,7 @@ I will provide a source for problems where possible and known.
 
 ## Math Based
 * [Write a method `pow(x, n)` that returns the value of x raised to the power of n](https://github.com/munyari/algo/blob/master/src/Pow.java) - [(Source)](https://firecode.io)
+* [Write a method that calculates the Hamming Weight of a number](https://github.com/munyari/algo/blob/master/src/HammingWeight.java) - CodeAbbey - [Wikipedia](https://en.wikipedia.org/wiki/Hamming_weight)
 
 ## Strings
 * [Find the first non-repeated character in a String](https://github.com/munyari/algo/blob/master/src/NonRepeat.java) - [(Source)](http://redd.it/20ahfq)
