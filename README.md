@@ -66,7 +66,9 @@ Run the test:
 
 ````
     $ java -cp .:/opt/junit-4.12/junit-4.12.jar:/opt/junit-4.12/hamcrest-core-1.3.jar org.junit.runner.JUnitCore algo.test.MergeTest
-````	
+````
+
+On my own system, I've made these two steps more convenient with two aliases: `junitc` to compile and `junit` to run with the appropriate classpaths.
 
 
 ## TODO
