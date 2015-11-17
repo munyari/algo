@@ -18,6 +18,7 @@ I will provide a source for problems where possible and known.
 * [Find the most frequent integer in an array](https://github.com/munyari/algo/blob/master/src/MostFrequent.java) - [Source](http://redd.it/20ahfq)
 * [Find the common elements of 2 int arrays](https://github.com/munyari/algo/blob/master/src/CommonElem.java) - [(Source)](http://redd.it/20ahfq)
 * [Merge two sorted arrays](https://github.com/munyari/algo/blob/master/src/Merge.java) - [(Source)](https://firecode.io)
+* [Implement Insertion Sort on an array of integers](https://github.com/munyari/algo/blob/master/src/InsertionSort.java)
 
 ## Graphs
 ### Binary Trees
